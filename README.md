@@ -27,9 +27,12 @@ cp sample_config.py config.py
 --- EDIT config.py values appropriately ---
 python bot.py
 ```
-## Our Telegram Channel
+## our bot
 
-* [TG Free Bots](https://t.me/TG_Free_Bots)
+* [youtube downloader](https://t.me/raguutubebot)
+
+
+
 
 #### LICENSE
 - GPLv3
